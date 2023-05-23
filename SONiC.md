@@ -265,9 +265,9 @@ The Cisco 8000 switch is used for securely connecting remote industrial operatio
 | Large and complex | Small and modular |
 | Difficult to maintain and update the system as a whole | Easier to maintain and update the system as a whole |
 
-#### <ins><font color="red"> Docker </font> </ins>
+#### Docker 
 ```text
-Docker is an open​​ platform for​​ developing, shipping​​, and running​​ applications​.
+Docker is an open platform for​​ developing, shipping​​, and running​​ applications​.
 It enables​​ developers to​​ easily pack, ship​​, and run any​​ application as​​ a lightweight​​, portable, self​​-sufficient container​​ that can run​​ virtually anywhere​.
 Here are​​ some reasons​​ why Docker is​​ useful:​
     - Portability: Docker containers are self-contained and can run on any Linux server without dependencies. This makes it easy to move applications between different environments.
@@ -276,12 +276,12 @@ Here are​​ some reasons​​ why Docker is​​ useful:​
     - Isolation: Docker containers provide isolation and security, allowing you to run many containers simultaneously on a given host. Containers are lightweight and contain everything needed to run the application, so you don't need to worry about dependencies
 ```
 
-#### <ins><font color="red"> Azure </font> </ins>
+####  Azure
 ```text
 Azure is a cloud computing platform and service offered by Microsoft.
 ```
 
-#### <ins><font color="red"> APIs </font> </ins>
+#### APIs 
 ```text
 APIs (Application Programming Interfaces) are messaging formats that allow data to be transmitted from one system to another in near real-time.
 APIs have become an essential and ubiquitous part of modern software development, from web-based services to mobile apps to IoT devices.
@@ -293,7 +293,7 @@ The benefits of APIs include integration, scalability, stability, reliability, a
 By using APIs, organizations can react to supply chain disruption, improve team collaboration, and provide services more efficiently.
 ```
 
-#### <ins><font color="red"> Link aggregation functionality </font></ins>
+#### Link aggregation functionality
 ```text
 Link aggregation functionality (LAG) is a method of combining multiple network connections in parallel to increase total throughput beyond what a single connection can sustain. It provides redundancy where all but one of the physical links may fail without losing connectivity.
 Here are some key points about LAG from the search results:
